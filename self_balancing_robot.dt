@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-16"?>
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT0S" SolutionTotalViewTime="PT22.6730863S" SolutionTotalDebugTime="PT0S">
+  <FileVersion>
+    <Major>1</Major>
+    <Minor>0</Minor>
+  </FileVersion>
+  <SolutionFolder>C:\Users\Gintaras\OneDrive\Dokumentai\Arduino\self_balancing_robot</SolutionFolder>
+  <SessionTimeList />
+  <LastSessionTimeList />
+  <TotalTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT22.6730863S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Gintaras\OneDrive\Dokumentai\Arduino\esp_game_console\esp_game_console.ino</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Gintaras\OneDrive\Dokumentai\Arduino\esp_game_console\esp_game_console.vcxproj</ProjectName>
+      <CreatedDate>2019-03-20T16:57:36.8220004+02:00</CreatedDate>
+      <ViewedBy>Gintaras</ViewedBy>
+    </DevTrackerDataItem>
+  </TotalTimeList>
+  <HistoryTimeList>
+    <DevTrackerDataItem ViewActiveTime="PT22.6740841S" EditActiveTime="PT0S">
+      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
+      <EditedCount>0</EditedCount>
+      <ViewedCount>1</ViewedCount>
+      <Item>C:\Users\Gintaras\OneDrive\Dokumentai\Arduino\esp_game_console\esp_game_console.ino</Item>
+      <ItemType>ProjectItem</ItemType>
+      <ProjectName>C:\Users\Gintaras\OneDrive\Dokumentai\Arduino\esp_game_console\esp_game_console.vcxproj</ProjectName>
+      <CreatedDate>2019-03-20T16:57:36.8220004+02:00</CreatedDate>
+      <ViewedBy>Gintaras</ViewedBy>
+    </DevTrackerDataItem>
+  </HistoryTimeList>
+</DevTrackerData>
